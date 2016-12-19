@@ -27,6 +27,7 @@ Aqui vai o layout em PSD que deve ser desenvolvido:
     ```
 
 3. Faça clone deste repositório e suba o projeto
+
     Clone: 
     ```sh
     $ git clone https://github.com/cubonetwork/front-end-challenge.git
