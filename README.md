@@ -12,7 +12,7 @@ Objetivo deste desafio é avaliarmos o seu domínio em front-end, ou seja, sua o
     - Algum framework SPA (Single Page Application). Sugestão: **Angular 2**;
 3. Submeter o link do seu repositório com o código do desafio **até 10 dias** após a sua aplicação na [vaga pelo site](https://cubo.network/jobs/96b32cb4-20aa-4f44-b34c-dc4cfa05adb4)
 
-## O Teste
+## O Desafio
 
 Aqui vai o layout em PSD que deve ser desenvolvido:
 
