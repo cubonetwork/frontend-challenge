@@ -42,7 +42,7 @@ Aqui vai o layout em PSD que deve ser desenvolvido:
     ```
     Acesse http://localhost:4200/ para visualizar o projeto base
 
-    Rodar testes end-to-end com [Protractor]](http://www.protractortest.org/):
+    Rodar testes end-to-end com [Protractor](http://www.protractortest.org/):
     ```sh
     $ ng e2e
     ```
