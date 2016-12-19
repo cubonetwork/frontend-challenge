@@ -31,6 +31,10 @@ Aqui vai o layout em PSD que deve ser desenvolvido:
     ```sh
     $ git clone https://github.com/cubonetwork/front-end-challenge.git
     ```
+    Instalando as dependências:
+    ```sh
+    $ npm install
+    ```
     Subindo o projeto:
     ```sh
     $ ng serve
