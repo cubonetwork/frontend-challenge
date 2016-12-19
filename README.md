@@ -6,10 +6,10 @@ Objetivo deste desafio é avaliarmos o seu domínio em front-end, ou seja, sua o
 
 1. Todo o seu código deve ser disponibilizado num repositório público em seu github ou bitbucket pessoal. Envie o link para dev@cubo.network;  
 2. Desenvolver o front-end utilizando: 
-    2.1. HTML5 e CSS3 ou SASS;
-    2.2. Bootstrap;
-    2.3. Layout responsivo;
-    2.4. Algum framework SPA (Single Page Application). Sugestão: **Angular 2**;
+    - HTML5 e CSS3 ou SASS;
+    - Bootstrap;
+    - Layout responsivo;
+    - Algum framework SPA (Single Page Application). Sugestão: **Angular 2**;
 3. Submeter o link do seu repositório com o código do desafio até 10 dias após a sua aplicação na vaga pelo site https://cubo.network/jobs/96b32cb4-20aa-4f44-b34c-dc4cfa05adb4  
 
 ## O Teste
