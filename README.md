@@ -1,4 +1,4 @@
-# Seja um CUBO < front >Developer</ end > =]
+# < front >Developer</ end > ao CUBO =]
 
 Objetivo deste desafio é avaliarmos o seu domínio em front-end, ou seja, sua organização, estilo e boas práticas com o código, conhecimento dos frameworks e tecnologias utilizadas.
 
