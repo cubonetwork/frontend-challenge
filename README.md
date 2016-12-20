@@ -15,7 +15,7 @@ Objetivo deste desafio é avaliarmos o seu domínio em front-end, ou seja, sua o
 ## O Desafio
 
 Este é o layout que deverá ser produzido:
-![layout one page](https://github.com/cubonetwork/front-end-challenge/layout-onepage.png)
+![layout one page](https://github.com/cubonetwork/front-end-challenge/blob/master/layout-onepage.png)
 
 Aqui vai o layout em PSD que deve ser desenvolvido:
 
