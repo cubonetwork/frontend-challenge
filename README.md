@@ -18,7 +18,7 @@ Este é o layout que deverá ser produzido:
 ![layout one page](https://github.com/cubonetwork/front-end-challenge/blob/master/layout-onepage.png)
 
 Aqui vai o layout em PSD:
-[Download do arquivo](front-end-challenge/layout-onepage.psd)
+[Download do arquivo](layout-onepage.psd)
 
 
 
