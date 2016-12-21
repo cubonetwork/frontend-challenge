@@ -29,6 +29,7 @@ https://of900lijd5.execute-api.us-east-1.amazonaws.com/v1/front-end/grid-people
 
 ### Algumas dicas e observações
 > Obs 1.: Fique a vontade para utilizar 3rd party, seja para gráficos, testes, etc;
+
 > Obs 2.: Abuse das animações, queremos ver seu domínio com CSS3
 
 
