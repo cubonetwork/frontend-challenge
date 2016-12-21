@@ -10,7 +10,7 @@ Objetivo deste desafio é avaliarmos o seu domínio em front-end, ou seja, sua o
     - Bootstrap;
     - Layout responsivo;
     - Algum framework SPA (Single Page Application). Sugestão: **Angular 2**;
-3. Submeter o link do seu repositório com o código do desafio **até 10 dias** após a sua aplicação na [vaga pelo site](https://cubo.network/jobs/96b32cb4-20aa-4f44-b34c-dc4cfa05adb4)
+3. Submeter o link do seu repositório com o código do desafio **até 15 dias** após a sua aplicação na [vaga pelo site](https://cubo.network/jobs/96b32cb4-20aa-4f44-b34c-dc4cfa05adb4)
 
 ## O Desafio
 
@@ -28,9 +28,11 @@ Para montar a sessão **DADOS** temos uma GRID e um gráfico de pizza na qual os
 https://of900lijd5.execute-api.us-east-1.amazonaws.com/v1/front-end/grid-people
 
 ### Algumas dicas e observações
-> Obs 1.: Fique a vontade para utilizar 3rd party, seja para gráficos, testes, etc;
+> Obs 1.: Fique a vontade para utilizar qualquer 3rd party, seja para gráficos, testes, etc;
 
-> Obs 2.: Abuse das animações, queremos ver seu domínio com CSS3
+> Obs 2.: Abuse das animações, queremos ver seu domínio com CSS3;
+
+> Obs 3.: Temos um formulário neste layout, considere que todos os campos são de preenchimento obrigatório e ao submeter o formulário os campos preenchidos devem ser exibidos no console (_console.log_).
 
 
 ## Dicas Angular 2
