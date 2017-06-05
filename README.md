@@ -5,7 +5,7 @@ Objetivo deste desafio é avaliarmos o seu domínio em front-end, ou seja, sua o
 ## Regras
 
 1. Todo o seu código deve ser disponibilizado num repositório público em seu github ou bitbucket pessoal. Envie o link para dev@cubo.network;  
-2. Desenvolver o front-end utilizando: 
+2. Desenvolver o projeto utilizando: 
     - HTML e CSS (ou algum pré-processador); 
     - Layout responsivo;
     - Algum framework SPA (Single Page Application). Sugestão: **Angular 2**;
