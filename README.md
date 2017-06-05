@@ -60,10 +60,10 @@ https://of900lijd5.execute-api.us-east-1.amazonaws.com/v1/front-end/grid-people
     ```
     Acesse http://localhost:4200/ para visualizar o projeto base
 
-    Rodar testes end-to-end com [Protractor](http://www.protractortest.org/):
+    Rodando testes end-to-end com [Protractor](http://www.protractortest.org/):
     ```sh
-    $ ng e2e
+    $ npm run e2e
     ```
 
 ## Dúvidas
-Envie suas dúvidas diretamente para dev@cubo.network
+Envie suas dúvidas diretamente para dev@cubo.network ou abrindo uma issue
