@@ -42,7 +42,7 @@ https://of900lijd5.execute-api.us-east-1.amazonaws.com/v1/front-end/grid-people
 
 2. Instalando o angular-cli 
     ```sh
-    $ npm install -g angular-cli
+    $ npm install -g @angular/cli
     ```
 
 3. Faça clone deste repositório e suba o projeto
@@ -55,9 +55,9 @@ https://of900lijd5.execute-api.us-east-1.amazonaws.com/v1/front-end/grid-people
     ```sh
     $ npm install
     ```
-    Subindo o projeto:
+    Iniciando o projeto:
     ```sh
-    $ ng serve
+    $ npm start
     ```
     Acesse http://localhost:4200/ para visualizar o projeto base
 
