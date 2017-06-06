@@ -4,17 +4,17 @@ Objetivo deste desafio é avaliarmos o seu domínio em front-end, ou seja, sua o
 
 ## Regras
 
-1. Todo o seu código deve ser disponibilizado num repositório público em seu github ou bitbucket pessoal. Envie o link para dev@cubo.network;  
+1. Todo o seu código deve ser disponibilizado num repositório público em seu github ou bitbucket pessoal. Envie o link para dev@cubo.network ou faça um pull-request;  
 2. Desenvolver o projeto utilizando: 
     - HTML e CSS (ou algum pré-processador); 
     - Layout responsivo;
     - Algum framework SPA (Single Page Application). Sugestão: **Angular 2**;
-3. Submeter o link do seu repositório com o código do desafio **até 10 dias** após a sua aplicação na [vaga pelo site](https://cubo.network/jobs/96b32cb4-20aa-4f44-b34c-dc4cfa05adb4)
+
 
 ## O Desafio
 
 Este é o layout que deverá ser produzido:
-![layout one page](https://github.com/cubonetwork/front-end-challenge/blob/master/layout-onepage.png)
+![layout one page](layout-onepage.png)
 
 Aqui vai o layout em PSD:
 [Download do arquivo](layout-onepage.psd)
@@ -48,7 +48,7 @@ https://of900lijd5.execute-api.us-east-1.amazonaws.com/v1/front-end/grid-people
 
     Clone: 
     ```sh
-    $ git clone https://github.com/cubonetwork/front-end-challenge.git
+    $ git clone https://github.com/cubonetwork/frontend-challenge.git
     ```
     Instalando as dependências:
     ```sh
