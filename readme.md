@@ -1,4 +1,8 @@
-# < front >Developer</ end > ao CUBO 
+<p align="center">
+  <img src="https://cubo.network/assets/svg/logo/logo-cubo-redpoint.svg" width="400">
+</p>
+
+# < front >Developer</ end > ao Cubo
 
 Objetivo deste desafio é avaliarmos o seu domínio em front-end, ou seja, sua organização, estilo e boas práticas com o código, conhecimento dos frameworks e tecnologias utilizadas.
 
