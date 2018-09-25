@@ -25,10 +25,11 @@ E aqui o PSD do layout:
 ### Dados Variáveis
 
 Para montar a sessão **SOBRE NÓS** temos três gráficos de pizza na qual os dados devem ser obtidos através do método GET da API
-https://of900lijd5.execute-api.us-east-1.amazonaws.com/v1/front-end/pie-chart
+https://of900lijd5.execute-api.us-east-1.amazonaws.com/v2/front-end/pie-chart
 
 Para montar a sessão **DADOS** temos um grid e um gráfico de pizza na qual os dados devem ser obtidos através do método GET da API
-https://of900lijd5.execute-api.us-east-1.amazonaws.com/v1/front-end/grid-people
+https://of900lijd5.execute-api.us-east-1.amazonaws.com/v2/front-end/grid-people
+
 
 ### Algumas dicas e observações
 
