@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cubo.network/assets/svg/logo/logo-cubo-redpoint.svg" width="400">
+  <img src="https://cubo.network/assets/images/cubo.svg" width="400">
 </p>
 
 # < front >Developer</ end > ao Cubo
